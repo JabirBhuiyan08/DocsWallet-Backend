@@ -2,7 +2,7 @@
 
 This is the backend for the Docs Wallet project, a secure digital wallet for saving and managing documents.
 
- 🚀 Features
+ Features
 - User authentication with JWT
 - Secure document storage
 - RESTful API for frontend integration
