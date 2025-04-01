@@ -9,7 +9,7 @@ This is the backend for the Docs Wallet project, a secure digital wallet for sav
 - MongoDB database
 - Express.js for server-side logic
 
-  🛠️ Tech Stack
+  Tech Stack
 - Node.js - Backend runtime
 - Express.js - Web framework
 - MongoDB - Database
